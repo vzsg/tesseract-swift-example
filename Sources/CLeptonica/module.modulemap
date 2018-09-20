@@ -1,0 +1,5 @@
+module CLeptonica
+{
+    umbrella header "leptonica.h"
+    link "lept"
+}

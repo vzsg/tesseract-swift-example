@@ -1,0 +1,5 @@
+module CTesseract
+{
+    umbrella header "tesseract.h"
+    link "tesseract"
+}
